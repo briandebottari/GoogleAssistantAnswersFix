@@ -3,6 +3,5 @@ name=Google Answers Enabler
 version=v1.0
 versionCode=1
 author=daradan
-support=https://odn.kz
 description=Fix the lack of voice in the Google app when reading answers to a search query.
 minMagisk=1500
