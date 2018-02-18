@@ -2,6 +2,10 @@
 
 Fix the lack of voice in the Google app when reading answers to a search query.
 
+**Tested on**
+- Xiaomi Mi A1 (tissot) - android 7.*
+- Xiaomi Redmi 4X (santoni) - miui 9 android 7.*
+
 **You can do it yourself**
 
 1. Needed root
