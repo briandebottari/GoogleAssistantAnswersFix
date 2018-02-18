@@ -1,9 +1,23 @@
 # Google Answers Enabler
 
-This `README.md` will be shown in Magisk Manager. Place any information / changelog / notes you like.
+Fix the lack of voice in the Google app when reading answers to a search query.
 
-**Please update `README.md` if you want to submit your module to the online repo!**
+**You can do it yourself**
 
-Github has its own online markdown editor with a preview feature, you can use it to update your `README.md`! If you need more advanced syntax, check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+1. Needed root
+2. open build.prop
+3. change value on **mm.enable.qcom_parser** to **3183219**
+4. save changes
+5. reboot phone
 
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/modules.md)
+Фикс отсутствия голоса в приложении гугл при чтении ответов на поисковый запрос
+
+**Вы можете это сделать сами**
+
+1. Необходим рут
+2. открываем build.prop
+3. изменяем значение в **mm.enable.qcom_parser** на **3183219**
+4. сохраняем изменения
+5. перезагрузить телефон
+
+Author instruction/автор инструкции: **kolos544**
