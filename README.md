@@ -1,4 +1,4 @@
-# Magisk Module Template
+# Google Answers Enabler
 
 This `README.md` will be shown in Magisk Manager. Place any information / changelog / notes you like.
 
